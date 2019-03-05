@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">level_4_assignment</string>
+    <string name="addTitle">Title</string>
+    <string name="addDescription">Description</string>
+    <string name="ButtonText">Add Item</string>
+    <string name="BucketList">BucketList</string>
+</resources>
